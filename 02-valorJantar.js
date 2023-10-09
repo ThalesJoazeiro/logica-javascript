@@ -1,4 +1,4 @@
-let gastos = 80;
+let gastos = 100;
 let taxaGarcom = 10;
 
 console.log('Valor do jantar: R$ ' + gastos + ',00');
